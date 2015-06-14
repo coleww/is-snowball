@@ -1,0 +1,19 @@
+{
+  "name": "is-snowball",
+  "description": "An Oulipian Poem Detector",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "devDependencies": {
+    "tape": "^4.0.0"
+  },
+  "keywords": [
+    "oulipo",
+    "snowball",
+    "poetry"
+  ],
+  "author": "Cole Willsea <coleww@gmail.com> (http://colewillsea.com/)",
+  "license": "MIT"
+}
