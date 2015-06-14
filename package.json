@@ -15,5 +15,18 @@
     "poetry"
   ],
   "author": "Cole Willsea <coleww@gmail.com> (http://colewillsea.com/)",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "tape": "^4.0.0",
+    "browserify": "^10.2.4",
+    "watchify": "^3.2.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/coleww/is-snowball"
+  },
+  "bugs": {
+    "url": "https://github.com/coleww/is-snowball/issues"
+  },
+  "homepage": "https://github.com/coleww/is-snowball"
 }
