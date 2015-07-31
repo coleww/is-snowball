@@ -4,9 +4,10 @@
   "version": "1.0.1",
   "main": "index.js",
   "scripts": {
-    "test": "node test.js"
+    "test": "standard && node test.js"
   },
   "devDependencies": {
+    "standard": "^4.5.4",
     "tape": "^4.0.0"
   },
   "keywords": [

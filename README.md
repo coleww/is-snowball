@@ -1,6 +1,11 @@
 is-snowball
 ----------------
 
+[![NPM](https://nodei.co/npm/is-snowball.png)](https://nodei.co/npm/is-snowball/)
+[![Build Status](https://secure.travis-ci.org/coleww/is-snowball.png)](http://travis-ci.org/coleww/is-snowball)
+[![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
+
+
 [Snowball](https://en.wikipedia.org/wiki/Oulipo#Constraints)
 "A poem in which each line is a single word, and each successive word is one letter longer."
 
